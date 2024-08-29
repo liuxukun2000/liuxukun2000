@@ -4,12 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-###  For more about me, please visit my personal website: [xukunliu.com](https://xukunliu.com/) 
-
 I am a **full-stack developer** and am very eager to collaborate with you on contributing to open-source and working together on exciting projects!
 
 I am deeply interested in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-modal**, and **Efficient AI systems**. My recent projects include Adaptive Draft-Verification for Efficient Large Language Model Decoding, ToolNet, and collaborative platforms for tool-augmented LLMs like Gentopia.AI.
 
+###  For more about me, please visit my personal website: [xukunliu.com](https://xukunliu.com/) 
 
 #### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,py,latex,md,html,css,nodejs,php)](https://skillicons.dev)
