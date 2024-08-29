@@ -1,6 +1,12 @@
-### Hi there 👋 Welcome to my GitHub profile! You are visitor ![Visitor Count](https://profile-counter.glitch.me/liuxukun2000/count.svg)!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xukun%20Liu!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-For more about me, please visit my personal website: [xukunliu.com](https://xukunliu.com/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+###  For more about me, please visit my personal website: [xukunliu.com](https://xukunliu.com/) 
+
+
 
 #### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,py,latex,md,html,css,nodejs,php)](https://skillicons.dev)
@@ -23,12 +29,15 @@ For more about me, please visit my personal website: [xukunliu.com](https://xuku
 #### Miscellaneous Tools:
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,raspberrypi,regex,stackoverflow,sklearn,selenium,vscode,wordpress,anaconda,pytorch,postman,bash,clion,pycharm,cmake,maven,discord,git,github,gitlab,idea)](https://skillicons.dev)
 
+<!--<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=liuxukun2000&theme=github-compact&hide_border=true&area=true" />-->
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuxukun2000&layout=compact)](https://github.com/liuxukun2000/github-readme-stats)
 ![Xukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuxukun2000&show_icons=true&theme=tokyonight)-->
 
 <!--
 **liuxukun2000/liuxukun2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You are visitor ![Visitor Count](https://profile-counter.glitch.me/liuxukun2000/count.svg)!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
