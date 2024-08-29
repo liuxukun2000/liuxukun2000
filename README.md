@@ -6,6 +6,9 @@
 
 ###  For more about me, please visit my personal website: [xukunliu.com](https://xukunliu.com/) 
 
+I am a **full-stack developer** and am very eager to collaborate with you on contributing to open-source and working together on exciting projects!
+
+I am deeply interested in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-modal**, and **Efficient AI systems**. My recent projects include Adaptive Draft-Verification for Efficient Large Language Model Decoding, ToolNet, and collaborative platforms for tool-augmented LLMs like Gentopia.AI.
 
 
 #### Programming Languages:
